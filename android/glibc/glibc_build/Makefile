@@ -1,0 +1,11 @@
+srcdir = ../glibc-2.16.0
+
+# Uncomment the line below if you want to do parallel build.
+# PARALLELMFLAGS = -j 4
+
+all .DEFAULT:
+	$(MAKE) -r PARALLELMFLAGS="$(PARALLELMFLAGS)" -C $(srcdir) objdir=`pwd` $@
+
+install:
+	LANGUAGE=C LC_ALL=C; export LANGUAGE LC_ALL; \
+	$(MAKE) -r PARALLELMFLAGS="$(PARALLELMFLAGS)" -C $(srcdir) objdir=`pwd` $@

@@ -1,0 +1,74 @@
+on init
+    # mount debugfs
+    mount debugfs /sys/kernel/debug /sys/kernel/debug
+
+# power management
+# Enable off mode by default
+    #write /sys/kernel/debug/pm_debug/enable_off_mode 1
+
+on boot
+    # create dhcpcd dir
+    mkdir /data/misc/dhcp 0770 dhcp dhcp
+    chmod 0770 /data/misc/dhcp
+
+    # switch CPUfreq from performance to hotplug
+    #write /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor hotplug
+    #write /sys/devices/system/cpu/cpufreq/hotplug/down_threshold 30
+
+    #Give system ownership and permission to boost clock for specified timeout
+    #Note boost_timeout cannot be changed from application because of dynamic sysfs creation. It will have default value of 3 sec.
+    chown system system /sys/devices/system/cpu/cpu0/cpufreq/boost_cpufreq
+    chmod 0664  /sys/devices/system/cpu/cpu0/cpufreq/boost_cpufreq
+
+    # Boost the CPU for 60 sec for boot optimization
+    #write /sys/devices/system/cpu/cpufreq/hotplug/boost_timeout 60000000
+    #write /sys/devices/system/cpu/cpu0/cpufreq/boost_cpufreq 1
+
+    # change permissions for alsa nodes
+    chmod 0777 /dev/snd/pcmC0D0c
+    chmod 0777 /dev/snd/pcmC0D0p
+    chmod 0777 /dev/snd/controlC0
+    chmod 0777 /dev/snd/timer
+
+    #change permissions for alsa nodes for audio modem
+    chmod 0777 /dev/snd/pcmC0D5c
+    chmod 0777 /dev/snd/pcmC0D5p
+
+    #change permissions for alsa nodes for HDMI
+    chmod 777  /dev/snd/pcmC0D7p
+
+    # change permissions for Overlay
+    chown system system /dev/video1
+    chown system system /dev/video2
+    chown system system /dev/video3
+
+    # Revert the boost_timeout to the default value of 3 sec. Note this won't affect the prev boost
+    # request for boot time reduction
+    # write /sys/devices/system/cpu/cpufreq/hotplug/boost_timeout 3000000
+
+    chown system system /sys/class/graphics/fb0/overlays
+    chown system system /sys/class/graphics/fb0/fit_to_screen
+    chown system system /sys/class/graphics/fb1/overlays
+
+    insmod /system/modules/gator.ko
+
+service faketsd /system/bin/faketsd
+    class main
+    user bluetooth
+    group bluetooth
+    oneshot
+
+# hack to start networking until ICS has Ethernet Communication Manager
+# this will enable use of ADB and gator without further manual
+# intervention, it does not let UI apps like the web browser work
+service netcfghack /system/bin/netcfg eth0 dhcp
+    class main
+    user root
+    oneshot
+
+#userspace daemon needed for gator
+service gatord /system/bin/gatord
+    class main
+    user root
+
+

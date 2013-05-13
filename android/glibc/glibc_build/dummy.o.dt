@@ -1,0 +1,10 @@
+/home/dirk/tutorial/glibc/glibc_build/dummy.o: \
+ /home/dirk/tutorial/glibc/glibc_build/dummy.c ../include/libc-symbols.h \
+ /home/dirk/tutorial/glibc/glibc_build/config.h \
+ ../sysdeps/wordsize-32/symbol-hacks.h
+
+../include/libc-symbols.h:
+
+/home/dirk/tutorial/glibc/glibc_build/config.h:
+
+../sysdeps/wordsize-32/symbol-hacks.h:

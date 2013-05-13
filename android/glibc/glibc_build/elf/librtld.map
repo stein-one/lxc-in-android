@@ -1,0 +1,1740 @@
+Archive member included because of file (symbol)
+
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os) (__divdi3_internal)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__sigsetjmp)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__longjmp)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (strchr)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (strcmp)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (strcpy)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (strlen)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (strnlen)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (memchr)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (memcmp)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (memmove)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (memset)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (mempcpy)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (stpcpy)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (memcpy)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os) (_wordcopy_fwd_aligned)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (rawmemchr)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__closedir)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__readdir)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (rewinddir)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os) (__getdents)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__fdopendir)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__uname)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (_exit)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__getpid)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__environ)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__GI___xstat64)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__open)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__close)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__libc_read)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__libc_write)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__lseek)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__access)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (getpagesize)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__mmap)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__munmap)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__mprotect)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__profil)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os) (__libc_multiple_threads)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os) (__syscall_error)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os) (__default_sa_restorer_v1)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os) (__setitimer)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os) (__GI_exit)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os) (__exit_funcs)
+/home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__aeabi_uidiv)
+/home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+                              /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os) (__aeabi_idiv)
+/home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+                              /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os (__aeabi_uldivmod)
+/home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+                              /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+                              /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+                              /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o) (raise)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+LOAD /home/dirk/tutorial/glibc/glibc_build/libc_pic.a
+LOAD /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000    0x1c904
+ *(.text .stub)
+ .text          0x00000000    0x18634 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+                0x00000000                _start
+                0x00000010                _dl_start_user
+                0x000000b0                _dl_initial_error_catch_tsd
+                0x00006fb0                _dl_dst_count
+                0x00007080                _dl_dst_substitute
+                0x00007660                _dl_init_paths
+                0x00007ae8                _dl_map_object
+                0x00008438                _dl_rtld_di_serinfo
+                0x000085dc                _dl_cache_libcmp
+                0x000086ec                _dl_load_cache_lookup
+                0x00008f2c                _dl_unload_cache
+                0x00009928                _dl_lookup_symbol_x
+                0x0000aba4                _dl_setup_hash
+                0x0000ac54                _dl_add_to_namespace_list
+                0x0000ad10                _dl_new_object
+                0x0000b0f8                _dl_try_allocate_static_tls
+                0x0000b1dc                _dl_allocate_static_tls
+                0x0000b218                _dl_nothread_init_static_tls
+                0x0000b2a0                _dl_protect_relro
+                0x0000b318                _dl_reloc_bad_type
+                0x0000b388                _dl_relocate_object
+                0x0000d248                _dl_map_object_deps
+                0x0000e624                _dl_fixup
+                0x0000e838                _dl_profile_fixup
+                0x0000edcc                _dl_call_pltexit
+                0x0000eecc                _dl_signal_error
+                0x0000f0b8                _dl_signal_cerror
+                0x0000f170                _dl_catch_error
+                0x0000f248                _dl_receive_error
+                0x0000f420                _dl_init_internal
+                0x0000f420                _dl_init
+                0x0000f610                _dl_sort_fini
+                0x0000f88c                _dl_fini
+                0x0000fe1c                _dl_debug_state
+                0x0000fe1c                __GI__dl_debug_state
+                0x0000fe20                _dl_debug_initialize
+                0x0001038c                _dl_sysdep_read_whole_file
+                0x00010410                _dl_debug_printf
+                0x00010454                _dl_debug_printf_c
+                0x00010498                _dl_dprintf
+                0x000104cc                _dl_name_match_p
+                0x0001052c                _dl_higher_prime_number
+                0x00010980                _dl_check_map_versions
+                0x00010db8                _dl_check_all_versions
+                0x00010e28                _dl_start_profile
+                0x000116bc                _dl_mcount_internal
+                0x000116bc                _dl_mcount
+                0x00011b78                _dl_resolve_conflicts
+                0x00011ed8                _dl_next_tls_modid
+                0x00011ff8                _dl_determine_tlsoffset
+                0x000124a8                __GI__dl_tls_setup
+                0x000124a8                _dl_tls_setup
+                0x0001256c                _dl_get_tls_static_info
+                0x0001258c                _dl_allocate_tls_storage
+                0x00012614                __GI__dl_allocate_tls_init
+                0x00012614                _dl_allocate_tls_init
+                0x00012810                __GI__dl_allocate_tls
+                0x00012810                _dl_allocate_tls
+                0x00012830                _dl_deallocate_tls
+                0x00012830                __GI__dl_deallocate_tls
+                0x000128dc                _dl_update_slotinfo
+                0x00012bf0                __tls_get_addr
+                0x00012c54                _dl_tls_get_addr_soft
+                0x00012cf0                _dl_add_to_slotinfo
+                0x00012dfc                _dl_get_origin
+                0x00013014                _dl_scope_free
+                0x000130fc                _dl_make_stack_executable
+                0x000130fc                __GI__dl_make_stack_executable
+                0x000131a8                _dl_check_caller
+                0x00013644                _dl_open
+                0x00013a28                _dl_show_scope
+                0x00013b8c                _dl_addr_inside_object
+                0x0001498c                _dl_close_worker
+                0x00015980                _dl_close
+                0x00015a40                _dl_runtime_resolve
+                0x00015a64                _dl_runtime_profile
+                0x00015b28                _dl_sysdep_start
+                0x00015ed8                _dl_sysdep_start_cleanup
+                0x00015edc                _dl_show_auxv
+                0x00016150                _dl_important_hwcaps
+                0x00016aec                _dl_discover_osversion
+                0x00016cd8                _dl_next_ld_env_entry
+                0x00016d30                unsetenv
+                0x00016dc8                __libc_memalign
+                0x00016f14                malloc
+                0x00016f20                calloc
+                0x00016f70                free
+                0x00016fa8                __sigjmp_save
+                0x00016fb8                __GI___assert_fail
+                0x00016fb8                __assert_fail
+                0x0001701c                realloc
+                0x000170a0                __strtoul_internal
+                0x00017238                _itoa
+                0x000172e4                __strerror_r
+                0x00017404                __GI___assert_perror_fail
+                0x00017404                __assert_perror_fail
+                0x00017474                __strsep
+                0x00017474                strsep
+                0x00017474                __strsep_g
+                0x00017520                __GI___chk_fail
+                0x00017520                __chk_fail
+                0x00017530                __aeabi_read_tp
+                0x00017540                __brk
+                0x00017540                brk
+                0x000175c8                sbrk
+                0x000175c8                __sbrk
+                0x00017c1c                __getcwd
+                0x00017c1c                getcwd
+                0x00017ccc                openat64
+                0x00017d4c                __alloc_dir
+                0x00017e20                __opendirat
+                0x00017edc                __opendir
+                0x00017edc                opendir
+                0x00017ee8                __fxstatat64
+                0x00017f58                __aeabi_unwind_cpp_pr0
+                0x00017f5c                __aeabi_unwind_cpp_pr1
+                0x00017f60                __aeabi_unwind_cpp_pr2
+                0x00017f64                _dl_make_tlsdesc_dynamic
+                0x000182b8                _dl_tlsdesc_lazy_resolver_fixup
+                0x00018490                _dl_tlsdesc_resolve_hold_fixup
+                0x000184d0                _dl_unmap
+                0x00018590                _dl_tlsdesc_return
+                0x00018598                _dl_tlsdesc_undefweak
+                0x000185ac                _dl_tlsdesc_dynamic
+                0x00018600                _dl_tlsdesc_lazy_resolver
+                0x00018618                _dl_tlsdesc_resolve_hold
+ .text          0x00018634      0x134 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+                0x00018738                __libc_check_standard_fds
+ .text          0x00018768        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .text          0x00018768      0x640 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+                0x00018c60                __divdi3@GLIBC_2.4
+                0x00018c60                __divdi3_internal
+                0x00018ce0                __moddi3@GLIBC_2.4
+                0x00018ce0                __moddi3_internal
+                0x00018d68                __udivdi3@GLIBC_2.4
+                0x00018d68                __udivdi3_internal
+                0x00018d84                __umoddi3_internal
+                0x00018d84                __umoddi3@GLIBC_2.4
+ *fill*         0x00018da8        0x8 00000000
+ .text          0x00018db0       0x60 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+                0x00018db0                __sigsetjmp
+                0x00018db0                __GI___sigsetjmp
+ .text          0x00018e10       0x70 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+                0x00018e10                __longjmp
+ .text          0x00018e80      0x130 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+                0x00018e80                __GI_strchr
+                0x00018e80                index
+                0x00018e80                strchr
+ .text          0x00018fb0       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+                0x00018fb0                __GI_strcmp
+                0x00018fb0                strcmp
+ .text          0x00018fd8       0x1c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+                0x00018fd8                strcpy
+                0x00018fd8                __GI_strcpy
+ *fill*         0x00018ff4        0xc 00000000
+ .text          0x00019000       0x60 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+                0x00019000                strlen
+                0x00019000                __GI_strlen
+ .text          0x00019060      0x23c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+                0x00019060                __strnlen
+                0x00019060                strnlen
+                0x00019060                __GI_strnlen
+ .text          0x0001929c      0x318 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+                0x0001929c                __GI_memchr
+                0x0001929c                memchr
+                0x0001929c                __memchr
+ .text          0x000195b4      0x430 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+                0x000195b4                bcmp
+                0x000195b4                __GI_memcmp
+                0x000195b4                memcmp
+ *fill*         0x000199e4        0xc 00000000
+ .text          0x000199f0      0x340 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+                0x000199f0                memmove
+                0x000199f0                __GI_memmove
+ .text          0x00019d30       0x80 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+                0x00019d30                __GI_memset
+                0x00019d30                memset
+ .text          0x00019db0      0x130 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+                0x00019db0                mempcpy
+                0x00019db0                __GI_mempcpy
+                0x00019db0                __mempcpy
+                0x00019db0                __GI___mempcpy
+ .text          0x00019ee0       0x24 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+                0x00019ee0                stpcpy
+                0x00019ee0                __GI_stpcpy
+                0x00019ee0                __stpcpy
+                0x00019ee0                __GI___stpcpy
+ *fill*         0x00019f04        0xc 00000000
+ .text          0x00019f10      0x330 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+                0x00019f10                memcpy
+                0x00019f10                __GI_memcpy
+ .text          0x0001a240      0x448 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+                0x0001a240                _wordcopy_fwd_aligned
+                0x0001a368                _wordcopy_fwd_dest_aligned
+                0x0001a468                _wordcopy_bwd_aligned
+                0x0001a590                _wordcopy_bwd_dest_aligned
+ .text          0x0001a688       0xdc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+                0x0001a688                __GI___rawmemchr
+                0x0001a688                __rawmemchr
+                0x0001a688                rawmemchr
+ .text          0x0001a764       0x74 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+                0x0001a764                __closedir
+                0x0001a764                closedir
+ .text          0x0001a7d8      0x174 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+                0x0001a7d8                readdir
+                0x0001a7d8                __readdir
+ .text          0x0001a94c       0xd8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+                0x0001a94c                rewinddir
+                0x0001a94c                __GI_rewinddir
+ .text          0x0001aa24       0x8c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+                0x0001aa24                __getdents
+ .text          0x0001aab0       0xb8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+                0x0001aab0                fdopendir
+                0x0001aab0                __fdopendir
+ *fill*         0x0001ab68        0x8 00000000
+ .text          0x0001ab70       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+                0x0001ab70                uname
+                0x0001ab70                __GI_uname
+                0x0001ab70                __uname
+                0x0001ab70                __GI___uname
+ .text          0x0001ab90       0x84 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+                0x0001ab90                _Exit
+                0x0001ab90                __GI__exit
+                0x0001ab90                _exit
+ .text          0x0001ac14       0x4c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+                0x0001ac14                __getpid
+                0x0001ac14                getpid
+                0x0001ac14                __GI_getpid
+                0x0001ac14                __GI___getpid
+ .text          0x0001ac60        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .text          0x0001ac60       0x48 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+                0x0001ac60                ___xstat64
+                0x0001ac60                __xstat64
+                0x0001ac60                __GI___xstat64
+ .text          0x0001aca8       0x48 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+                0x0001aca8                ___fxstat64
+                0x0001aca8                __GI___fxstat64
+                0x0001aca8                __fxstat64
+ .text          0x0001acf0       0x48 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+                0x0001acf0                ___lxstat64
+                0x0001acf0                __lxstat64
+                0x0001acf0                __GI___lxstat64
+ *fill*         0x0001ad38        0x8 00000000
+ .text          0x0001ad40       0x90 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+                0x0001ad44                __open_nocancel
+                0x0001ad60                __open
+                0x0001ad60                __GI_open
+                0x0001ad60                __GI___open
+                0x0001ad60                __libc_open
+                0x0001ad60                __GI___libc_open
+                0x0001ad60                open
+ .text          0x0001add0       0x90 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+                0x0001add4                __close_nocancel
+                0x0001adf0                __GI_close
+                0x0001adf0                __GI___libc_close
+                0x0001adf0                __libc_close
+                0x0001adf0                __close
+                0x0001adf0                __GI___close
+                0x0001adf0                close
+ .text          0x0001ae60       0x90 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+                0x0001ae64                __read_nocancel
+                0x0001ae80                __read
+                0x0001ae80                __GI_read
+                0x0001ae80                __libc_read
+                0x0001ae80                __GI___read
+                0x0001ae80                read
+                0x0001ae80                __GI___libc_read
+ .text          0x0001aef0       0x90 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+                0x0001aef4                __write_nocancel
+                0x0001af10                __write
+                0x0001af10                __GI_write
+                0x0001af10                write
+                0x0001af10                __GI___libc_write
+                0x0001af10                __GI___write
+                0x0001af10                __libc_write
+ .text          0x0001af80       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+                0x0001af80                __GI___lseek
+                0x0001af80                lseek
+                0x0001af80                __GI___libc_lseek
+                0x0001af80                __lseek
+                0x0001af80                __libc_lseek
+                0x0001af80                __GI_lseek
+ .text          0x0001afa0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+                0x0001afa0                __GI_access
+                0x0001afa0                __GI___access
+                0x0001afa0                access
+                0x0001afa0                __access
+ .text          0x0001afc0      0x14c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+                0x0001afc0                __fcntl_nocancel
+                0x0001b024                __libc_fcntl
+                0x0001b024                __GI___libc_fcntl
+                0x0001b024                __GI___fcntl
+                0x0001b024                __fcntl
+                0x0001b024                fcntl
+ .text          0x0001b10c       0x54 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+                0x0001b10c                getpagesize
+                0x0001b10c                __GI___getpagesize
+                0x0001b10c                __getpagesize
+ .text          0x0001b160       0x50 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+                0x0001b160                __mmap
+                0x0001b160                mmap
+ .text          0x0001b1b0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+                0x0001b1b0                munmap
+                0x0001b1b0                __GI___munmap
+                0x0001b1b0                __GI_munmap
+                0x0001b1b0                __munmap
+ .text          0x0001b1d0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+                0x0001b1d0                __mprotect
+                0x0001b1d0                __GI___mprotect
+                0x0001b1d0                __GI_mprotect
+                0x0001b1d0                mprotect
+ .text          0x0001b1f0      0x1ec /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+                0x0001b1f0                profil_counter
+                0x0001b240                __profil
+                0x0001b240                profil
+ .text          0x0001b3dc       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+                0x0001b3dc                __GI___profile_frequency
+                0x0001b3dc                __profile_frequency
+ .text          0x0001b3fc       0x98 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+                0x0001b3fc                __lll_lock_wait_private
+ .text          0x0001b494      0x15c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+                0x0001b494                __libc_enable_asynccancel
+                0x0001b554                __libc_disable_asynccancel
+ .text          0x0001b5f0        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .text          0x0001b5f0       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+                0x0001b5f0                __syscall_error
+ .text          0x0001b620      0x1b4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+                0x0001b620                __libc_sigaction
+                0x0001b620                __GI___libc_sigaction
+                0x0001b79c                sigaction
+                0x0001b79c                __GI___sigaction
+                0x0001b79c                __sigaction
+ *fill*         0x0001b7d4        0xc 00000000
+ .text          0x0001b7e0       0x50 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+                0x0001b7f0                __default_sa_restorer_v1
+                0x0001b800                __default_sa_restorer_v2
+                0x0001b810                __default_rt_sa_restorer_v1
+                0x0001b820                __default_rt_sa_restorer_v2
+ .text          0x0001b830       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+                0x0001b830                setitimer
+                0x0001b830                __setitimer
+                0x0001b830                __GI_setitimer
+                0x0001b830                __GI___setitimer
+ .text          0x0001b850      0x6b8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+                0x0001b850                pthread_equal
+                0x0001b888                pthread_attr_destroy
+                0x0001b8bc                pthread_attr_init@@GLIBC_2.4
+                0x0001b8bc                __pthread_attr_init_2_1
+                0x0001b8f4                pthread_attr_getdetachstate
+                0x0001b92c                pthread_attr_setdetachstate
+                0x0001b964                pthread_attr_getinheritsched
+                0x0001b99c                pthread_attr_setinheritsched
+                0x0001b9d4                pthread_attr_getschedparam
+                0x0001ba0c                pthread_attr_setschedparam
+                0x0001ba44                pthread_attr_getschedpolicy
+                0x0001ba7c                pthread_attr_setschedpolicy
+                0x0001bab4                pthread_attr_getscope
+                0x0001baec                pthread_attr_setscope
+                0x0001bb24                pthread_condattr_destroy
+                0x0001bb5c                pthread_condattr_init
+                0x0001bb94                pthread_cond_broadcast@@GLIBC_2.4
+                0x0001bb94                __pthread_cond_broadcast
+                0x0001bbcc                __pthread_cond_destroy
+                0x0001bbcc                pthread_cond_destroy@@GLIBC_2.4
+                0x0001bc04                pthread_cond_init@@GLIBC_2.4
+                0x0001bc04                __pthread_cond_init
+                0x0001bc3c                pthread_cond_signal@@GLIBC_2.4
+                0x0001bc3c                __pthread_cond_signal
+                0x0001bc74                pthread_cond_wait@@GLIBC_2.4
+                0x0001bc74                __pthread_cond_wait
+                0x0001bcac                pthread_cond_timedwait@@GLIBC_2.4
+                0x0001bcac                __pthread_cond_timedwait
+                0x0001bce4                pthread_exit
+                0x0001bce4                __pthread_exit
+                0x0001bd18                pthread_getschedparam
+                0x0001bd50                pthread_setschedparam
+                0x0001bd88                pthread_mutex_destroy
+                0x0001bdc0                pthread_mutex_init
+                0x0001bdf8                pthread_mutex_lock
+                0x0001be30                pthread_mutex_unlock
+                0x0001be68                pthread_self
+                0x0001be98                pthread_setcancelstate
+                0x0001bed0                pthread_setcanceltype
+ .text          0x0001bf08      0x188 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+                0x0001bf08                __run_exit_handlers
+                0x0001c078                __GI_exit
+                0x0001c078                exit
+ .text          0x0001c090      0x2a4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+                0x0001c090                __new_exitfn
+                0x0001c2dc                __internal_atexit
+                0x0001c324                __cxa_atexit_internal
+                0x0001c324                __cxa_atexit
+ .text          0x0001c334      0x20c /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+                0x0001c334                __udivsi3
+                0x0001c334                __aeabi_uidiv
+                0x0001c520                __aeabi_uidivmod
+ .text          0x0001c540      0x240 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+                0x0001c540                __aeabi_idiv
+                0x0001c540                __divsi3
+                0x0001c760                __aeabi_idivmod
+ .text          0x0001c780       0x3c /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+                0x0001c780                __aeabi_uldivmod
+ .text          0x0001c7bc       0x10 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+                0x0001c7bc                __aeabi_ldiv0
+                0x0001c7bc                __aeabi_idiv0
+ .text          0x0001c7cc       0x78 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+                0x0001c7cc                __gnu_ldivmod_helper
+                0x0001c808                __gnu_uldivmod_helper
+ .text          0x0001c844       0xc0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+                0x0001c844                gsignal
+                0x0001c844                __GI_raise
+                0x0001c844                raise
+ *(.gnu.warning)
+
+.text.unlikely  0x00000000      0x824
+ .text.unlikely
+                0x00000000      0x824 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+
+.text.compat    0x00000000       0x40
+ .text.compat   0x00000000       0x40 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+                0x00000000                __pthread_unwind
+
+.fini
+ *(.fini)
+
+.rodata         0x00000000      0x778
+ *(.rodata)
+ .rodata        0x00000000      0x778 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+                0x00000768                __GI__itoa_lower_digits
+                0x00000768                _itoa_lower_digits
+
+.ARM.extab.text.unlikely
+                0x00000000       0x18
+ .ARM.extab.text.unlikely
+                0x00000000       0x18 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+
+.ARM.exidx.text.unlikely
+                0x00000000       0x48
+ .ARM.exidx.text.unlikely
+                0x00000000       0x48 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+
+.rodata.str1.4  0x00000000     0x36fc
+ .rodata.str1.4
+                0x00000000     0x3650 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .rodata.str1.4
+                0x00003650       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .rodata.str1.4
+                0x00003668       0x60 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .rodata.str1.4
+                0x000036c8       0x34 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.rodata.cst4    0x00000000        0x4
+ .rodata.cst4   0x00000000        0x4 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+
+.ARM.extab.text.compat
+                0x00000000        0x0
+ .ARM.extab.text.compat
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+
+.ARM.exidx.text.compat
+                0x00000000        0x8
+ .ARM.exidx.text.compat
+                0x00000000        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00000000      0x30c
+ *(.ARM.extab)
+ .ARM.extab     0x00000000       0xc0 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .ARM.extab     0x000000c0        0xc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .ARM.extab     0x000000cc        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .ARM.extab     0x000000cc        0xc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .ARM.extab     0x000000d8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .ARM.extab     0x000000d8       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .ARM.extab     0x000000f0       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .ARM.extab     0x00000108       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .ARM.extab     0x00000120       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .ARM.extab     0x00000138        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .ARM.extab     0x00000138        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .ARM.extab     0x00000138       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .ARM.extab     0x00000150        0xc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .ARM.extab     0x0000015c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .ARM.extab     0x0000015c       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .ARM.extab     0x0000018c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .ARM.extab     0x0000018c      0x174 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .ARM.extab     0x00000300        0xc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .ARM.extab     0x0000030c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .ARM.extab     0x0000030c        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .ARM.extab     0x0000030c        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.ARM.exidx      0x00000000      0x7e0
+ *(.ARM.exidx)
+ .ARM.exidx     0x00000000      0x488 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .ARM.exidx     0x00000488       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .ARM.exidx     0x00000498       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .ARM.exidx     0x000004c0        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .ARM.exidx     0x000004c8        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .ARM.exidx     0x000004d0        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .ARM.exidx     0x000004d8        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .ARM.exidx     0x000004e0        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .ARM.exidx     0x000004e8        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .ARM.exidx     0x000004f0        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .ARM.exidx     0x000004f8        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .ARM.exidx     0x00000500       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .ARM.exidx     0x00000520        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .ARM.exidx     0x00000528        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .ARM.exidx     0x00000530        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .ARM.exidx     0x00000538        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .ARM.exidx     0x00000540        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .ARM.exidx     0x00000548        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .ARM.exidx     0x00000550        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .ARM.exidx     0x00000558        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .ARM.exidx     0x00000560        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .ARM.exidx     0x00000568        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .ARM.exidx     0x00000570        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .ARM.exidx     0x00000578        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .ARM.exidx     0x00000580       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .ARM.exidx     0x000005a0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .ARM.exidx     0x000005c0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .ARM.exidx     0x000005e0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .ARM.exidx     0x00000600        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .ARM.exidx     0x00000608        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .ARM.exidx     0x00000610       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .ARM.exidx     0x00000620        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .ARM.exidx     0x00000628        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .ARM.exidx     0x00000630        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .ARM.exidx     0x00000638        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .ARM.exidx     0x00000640       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .ARM.exidx     0x00000650        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .ARM.exidx     0x00000658        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .ARM.exidx     0x00000660       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .ARM.exidx     0x00000670       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .ARM.exidx     0x00000680       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .ARM.exidx     0x000006a0        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .ARM.exidx     0x000006a8       0xf8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .ARM.exidx     0x000007a0       0x10 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .ARM.exidx     0x000007b0       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .ARM.exidx     0x000007c8       0x10 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .ARM.exidx     0x000007d8        0x8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x00000000        0x4
+ *(.tbss)
+ .tbss          0x00000000        0x4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+                0x00000000                errno
+                0x00000000                __libc_errno
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000      0x830
+ *(.data)
+ .data          0x00000000      0x830 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+                0x00000000                _rtld_global
+                0x00000000                _rtld_local
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .data          0x00000830        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .data          0x00000830        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .data          0x00000830        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000830        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+ .data          0x00000830        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .data          0x00000830        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.data.rel.ro    0x00000000      0x1fc
+ .data.rel.ro   0x00000000      0x1fc /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+                0x00000000                _dl_argc
+                0x00000004                __pointer_chk_guard
+                0x00000004                __pointer_chk_guard_local
+                0x00000058                _rtld_global_ro
+                0x00000058                _rtld_local_ro
+                0x000001c8                __stack_chk_guard
+                0x000001e4                __stack_prot
+                0x000001f0                __libc_stack_end
+                0x000001f0                __GI___libc_stack_end
+                0x000001f4                _dl_random
+                0x000001f8                __libc_enable_secure_internal
+                0x000001f8                __libc_enable_secure
+
+.data.rel.local
+                0x00000000        0x4
+ .data.rel.local
+                0x00000000        0x4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+                0x00000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x00000000      0x370
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000       0xb4 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+                0x0000003c                _dl_argv_internal
+                0x0000003c                _dl_argv
+                0x0000009c                __libc_multiple_libcs
+                0x000000ac                __curbrk
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .bss           0x000000b4        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .bss           0x000000b4        0x4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+                0x000000b4                _environ
+                0x000000b4                __environ
+                0x000000b4                environ
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .bss           0x000000b8        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .bss           0x000000b8       0xac /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .bss           0x00000164        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .bss           0x00000164      0x20c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .bss           0x00000370        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .bss           0x00000370        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .bss           0x00000370        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000370        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00000370        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .bss           0x00000370        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+ *(COMMON)
+ COMMON         0x00000370        0x0 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ COMMON         0x00000370        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x00000370        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ COMMON         0x00000370        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0xd66
+ *(.comment)
+ .comment       0x00000000      0x682 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .comment       0x00000682       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .comment       0x000006b3       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .comment       0x000006e4       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .comment       0x00000715       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .comment       0x00000746       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .comment       0x00000777       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .comment       0x000007a8       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .comment       0x000007d9       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .comment       0x0000080a       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .comment       0x0000083b       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .comment       0x0000086c       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .comment       0x0000089d       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .comment       0x000008ce       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .comment       0x000008ff       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .comment       0x00000930       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .comment       0x00000961       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .comment       0x00000992       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .comment       0x000009c3       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .comment       0x000009f4       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .comment       0x00000a25       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .comment       0x00000a56       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .comment       0x00000a87       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .comment       0x00000ab8       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .comment       0x00000ae9       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .comment       0x00000b1a       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .comment       0x00000b4b       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .comment       0x00000b7c       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .comment       0x00000bad       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .comment       0x00000bde       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .comment       0x00000c0f       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .comment       0x00000c40       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x00000c71       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .comment       0x00000ca2       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .comment       0x00000cd3       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .comment       0x00000d04       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .comment       0x00000d35       0x31 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x2f /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .ARM.attributes
+                0x0000002f       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .ARM.attributes
+                0x0000005e       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .ARM.attributes
+                0x0000008d       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .ARM.attributes
+                0x000000bc       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+ .ARM.attributes
+                0x000000dd       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+ .ARM.attributes
+                0x000000fe       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .ARM.attributes
+                0x0000012d       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .ARM.attributes
+                0x0000015c       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .ARM.attributes
+                0x0000018b       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+ .ARM.attributes
+                0x000001ac       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .ARM.attributes
+                0x000001db       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .ARM.attributes
+                0x0000020a       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .ARM.attributes
+                0x00000239       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+ .ARM.attributes
+                0x0000025a       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+ .ARM.attributes
+                0x0000027b       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .ARM.attributes
+                0x000002aa       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .ARM.attributes
+                0x000002d9       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+ .ARM.attributes
+                0x000002fa       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .ARM.attributes
+                0x00000329       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .ARM.attributes
+                0x00000358       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .ARM.attributes
+                0x00000387       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .ARM.attributes
+                0x000003b6       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .ARM.attributes
+                0x000003e5       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .ARM.attributes
+                0x00000414       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .ARM.attributes
+                0x00000443       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .ARM.attributes
+                0x00000464       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .ARM.attributes
+                0x00000493       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .ARM.attributes
+                0x000004c2       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .ARM.attributes
+                0x000004f1       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .ARM.attributes
+                0x00000520       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .ARM.attributes
+                0x0000054f       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .ARM.attributes
+                0x0000057e       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .ARM.attributes
+                0x0000059f       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .ARM.attributes
+                0x000005c0       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .ARM.attributes
+                0x000005e1       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .ARM.attributes
+                0x00000602       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .ARM.attributes
+                0x00000623       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .ARM.attributes
+                0x00000644       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .ARM.attributes
+                0x00000673       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .ARM.attributes
+                0x000006a2       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .ARM.attributes
+                0x000006c3       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .ARM.attributes
+                0x000006e4       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .ARM.attributes
+                0x00000705       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .ARM.attributes
+                0x00000734       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .ARM.attributes
+                0x00000763       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .ARM.attributes
+                0x00000792       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .ARM.attributes
+                0x000007c1       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .ARM.attributes
+                0x000007f0       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+ .ARM.attributes
+                0x00000811       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .ARM.attributes
+                0x00000840       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .ARM.attributes
+                0x00000861       0x21 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .ARM.attributes
+                0x00000882       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .ARM.attributes
+                0x000008b1       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .ARM.attributes
+                0x000008e0       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .ARM.attributes
+                0x0000090f       0x1f /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000092e       0x1f /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000094d       0x1f /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000096c       0x1f /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x0000098b       0x2d /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000009b8       0x2f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x8b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x488 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000488       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x000004a8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_aranges
+                0x000004c8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x000004e8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x00000508       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_aranges
+                0x00000528       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000548       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x00000568       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x00000588       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x000005a8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x000005c8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_aranges
+                0x000005e8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x00000608       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x00000628       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x00000648       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x00000668       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x00000688       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x000006a8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x000006c8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x000006e8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_aranges
+                0x00000708       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_aranges
+                0x00000728       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_aranges
+                0x00000748       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x00000768       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_aranges
+                0x00000788       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x000007a8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x000007c8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x000007e8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x00000808       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x00000828       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x00000850       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x00000870       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x00000890       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x619bd
+ *(.debug_info)
+ .debug_info    0x00000000    0x4c0fc /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_info    0x0004c0fc      0x54b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_info    0x0004c647      0x1ec /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .debug_info    0x0004c833      0x57b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_info    0x0004cdae      0x1a2 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_info    0x0004cf50       0xf4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_info    0x0004d044      0x10c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_info    0x0004d150      0x196 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_info    0x0004d2e6      0x1ac /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_info    0x0004d492      0x6dc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_info    0x0004db6e      0x15b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_info    0x0004dcc9       0xd5 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_info    0x0004dd9e      0x397 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_info    0x0004e135      0x196 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x0004e2cb      0x310 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_info    0x0004e5db     0x1284 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_info    0x0004f85f     0x11ab /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_info    0x00050a0a      0x43d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_info    0x00050e47      0x487 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_info    0x000512ce      0x292 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_info    0x00051560      0xf94 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_info    0x000524f4       0xde /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .debug_info    0x000525d2      0x454 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_info    0x00052a26      0x448 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_info    0x00052e6e      0x454 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_info    0x000532c2      0x54d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_info    0x0005380f     0x1be4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_info    0x000553f3      0x96d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_info    0x00055d60     0x1bb9 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_info    0x00057919     0x1098 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x000589b1     0x1327 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x00059cd8      0x2e1 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00059fb9     0x2170 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_info    0x0005c129     0x254a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_info    0x0005e673      0xe5f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_info    0x0005f4d2     0x13c3 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x00060895     0x1128 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_abbrev   0x00000000     0x97a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x62a6 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_abbrev  0x000062a6      0x192 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x00006438       0xdd /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .debug_abbrev  0x00006515      0x166 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_abbrev  0x0000667b       0xf9 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x00006774       0x83 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x000067f7       0xac /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_abbrev  0x000068a3      0x101 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x000069a4      0x12d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x00006ad1      0x15d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x00006c2e       0xbd /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x00006ceb       0x8e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x00006d79      0x12a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_abbrev  0x00006ea3      0x103 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x00006fa6      0x126 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x000070cc      0x218 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x000072e4      0x1f2 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x000074d6      0x17b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x00007651      0x11f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x00007770      0x132 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x000078a2      0x244 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x00007ae6       0x66 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .debug_abbrev  0x00007b4c      0x128 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_abbrev  0x00007c74      0x128 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_abbrev  0x00007d9c      0x128 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_abbrev  0x00007ec4      0x1aa /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x0000806e      0x202 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_abbrev  0x00008270      0x221 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_abbrev  0x00008491      0x1f3 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x00008684      0x204 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x00008888      0x274 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x00008afc      0x102 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x00008bfe      0x298 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x00008e96      0x287 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_abbrev  0x0000911d      0x1fc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_abbrev  0x00009319      0x265 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x0000957e      0x224 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_line     0x00000000     0xf968
+ *(.debug_line)
+ .debug_line    0x00000000     0xb203 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_line    0x0000b203      0x16a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_line    0x0000b36d       0x9c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .debug_line    0x0000b409      0x1af /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_line    0x0000b5b8       0xa5 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_line    0x0000b65d       0x3f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_line    0x0000b69c       0xd0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_line    0x0000b76c      0x1ab /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_line    0x0000b917      0x1a8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_line    0x0000babf      0x258 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_line    0x0000bd17      0x121 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_line    0x0000be38       0x46 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_line    0x0000be7e      0x1ff /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_line    0x0000c07d       0x83 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x0000c100      0x1db /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_line    0x0000c2db      0x3b1 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_line    0x0000c68c      0x358 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_line    0x0000c9e4      0x24f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_line    0x0000cc33      0x20c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_line    0x0000ce3f       0xdd /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_line    0x0000cf1c      0x306 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_line    0x0000d222       0x3f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .debug_line    0x0000d261      0x126 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_line    0x0000d387      0x127 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_line    0x0000d4ae      0x127 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_line    0x0000d5d5      0x25c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_line    0x0000d831      0x276 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_line    0x0000daa7      0x38a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_line    0x0000de31      0x271 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000e0a2      0x2e6 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000e388      0x35e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x0000e6e6      0x119 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x0000e7ff      0x3dc /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_line    0x0000ebdb      0x498 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_line    0x0000f073      0x1f7 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_line    0x0000f26a      0x38b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x0000f5f5      0x373 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_frame    0x00000000     0x2678
+ *(.debug_frame)
+ .debug_frame   0x00000000     0x160c /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_frame   0x0000160c       0x4c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_frame   0x00001658       0xa4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_frame   0x000016fc       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setjmp.os)
+ .debug_frame   0x0000171c       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_frame   0x00001748       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_frame   0x00001778       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_frame   0x00001798       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_frame   0x000017b8       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strlen.os)
+ .debug_frame   0x000017d8       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_frame   0x00001804       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_frame   0x00001830       0x38 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_frame   0x00001868       0x7c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memmove.os)
+ .debug_frame   0x000018e4       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memset.os)
+ .debug_frame   0x00001904       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_frame   0x00001934       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_frame   0x00001954       0x7c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcpy.os)
+ .debug_frame   0x000019d0       0x78 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_frame   0x00001a48       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_frame   0x00001a74       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_frame   0x00001aa0       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_frame   0x00001ad0       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_frame   0x00001b00       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_frame   0x00001b30       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_frame   0x00001b5c       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(uname.os)
+ .debug_frame   0x00001b88       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_frame   0x00001bb0       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_frame   0x00001bd8       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_frame   0x00001c00       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_frame   0x00001c28       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_frame   0x00001c50       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(open.os)
+ .debug_frame   0x00001cac       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(close.os)
+ .debug_frame   0x00001d08       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(read.os)
+ .debug_frame   0x00001d64       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(write.os)
+ .debug_frame   0x00001dc0       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lseek.os)
+ .debug_frame   0x00001dec       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(access.os)
+ .debug_frame   0x00001e18       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_frame   0x00001e74       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_frame   0x00001e9c       0x40 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mmap.os)
+ .debug_frame   0x00001edc       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(munmap.os)
+ .debug_frame   0x00001f08       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mprotect.os)
+ .debug_frame   0x00001f34       0x48 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_frame   0x00001f7c       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_frame   0x00001f9c       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_frame   0x00001fc8       0x50 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_frame   0x00002018       0x24 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sysdep.os)
+ .debug_frame   0x0000203c       0x4c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_frame   0x00002088      0x150 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigrestorer.os)
+ .debug_frame   0x000021d8       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(setitimer.os)
+ .debug_frame   0x00002204      0x310 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_frame   0x00002514       0x48 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_frame   0x0000255c       0x5c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_frame   0x000025b8       0x20 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .debug_frame   0x000025d8       0x20 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .debug_frame   0x000025f8       0x54 /home/dirk/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(bpabi.o)
+ .debug_frame   0x0000264c       0x2c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_str      0x00000000    0x358dc
+ *(.debug_str)
+ .debug_str     0x00000000    0x28c36 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_str     0x00028c36      0x34d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_str     0x00028f83      0x1a1 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(errno.os)
+ .debug_str     0x00029124      0x198 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_str     0x000292bc      0x145 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_str     0x00029401       0xdf /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_str     0x000294e0       0xf5 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_str     0x000295d5      0x14a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_str     0x0002971f      0x142 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_str     0x00029861      0x138 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_str     0x00029999      0x111 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_str     0x00029aaa       0xe8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_str     0x00029b92       0xf8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_str     0x00029c8a      0x152 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_str     0x00029ddc      0x227 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_str     0x0002a003      0xb1c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_str     0x0002ab1f      0xabb /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_str     0x0002b5da      0x2a6 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_str     0x0002b880      0x34e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_str     0x0002bbce      0x1e3 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_str     0x0002bdb1      0xa00 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_str     0x0002c7b1       0xe7 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(environ.os)
+ .debug_str     0x0002c898      0x31c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_str     0x0002cbb4      0x319 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_str     0x0002cecd      0x31e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_str     0x0002d1eb      0x2ea /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_str     0x0002d4d5      0xf8e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_str     0x0002e463      0x5a5 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_str     0x0002ea08      0xf84 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_str     0x0002f98c      0xa5e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_str     0x000303ea      0xb3c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_str     0x00030f26      0x331 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x00031257     0x1220 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_str     0x00032477     0x169b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_str     0x00033b12      0x812 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_str     0x00034324      0xb2b /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x00034e4f      0xa8d /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_loc      0x00000000    0x1c048
+ *(.debug_loc)
+ .debug_loc     0x00000000    0x15e9d /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_loc     0x00015e9d      0x1aa /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_loc     0x00016047      0xbc4 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_loc     0x00016c0b      0x133 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_loc     0x00016d3e       0x1e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcmp.os)
+ .debug_loc     0x00016d5c       0x13 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strcpy.os)
+ .debug_loc     0x00016d6f      0x1a8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_loc     0x00016f17      0x28a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_loc     0x000171a1      0xead /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_loc     0x0001804e      0x1ab /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_loc     0x000181f9       0x5a /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_loc     0x00018253      0x915 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(wordcopy.os)
+ .debug_loc     0x00018b68      0x12c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_loc     0x00018c94      0x11c /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_loc     0x00018db0      0x390 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_loc     0x00019140      0x2c6 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x00019406      0x1a5 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_loc     0x000195ab       0x7f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x0001962a      0x120 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_loc     0x0001974a       0x9e /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_loc     0x000197e8      0x115 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_loc     0x000198fd      0x115 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_loc     0x00019a12      0x115 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_loc     0x00019b27      0x419 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_loc     0x00019f40       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpagesize.os)
+ .debug_loc     0x00019f60      0x153 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_loc     0x0001a0b3      0x221 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_loc     0x0001a2d4      0x45f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_loc     0x0001a733      0x2da /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_loc     0x0001aa0d      0xc69 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_loc     0x0001b676      0x161 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_loc     0x0001b7d7      0x5d2 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x0001bda9      0x29f /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000     0x5a90
+ *(.debug_ranges)
+ .debug_ranges  0x00000000     0x5148 /home/dirk/tutorial/glibc/glibc_build/elf/dl-allobjs.os
+ .debug_ranges  0x00005148       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(check_fds.os)
+ .debug_ranges  0x00005178       0xa0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(divdi3.os)
+ .debug_ranges  0x00005218       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strchr.os)
+ .debug_ranges  0x00005238       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(strnlen.os)
+ .debug_ranges  0x00005268       0x28 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memchr.os)
+ .debug_ranges  0x00005290      0x2b0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(memcmp.os)
+ .debug_ranges  0x00005540       0x70 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_ranges  0x000055b0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_ranges  0x000055d0       0x40 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(closedir.os)
+ .debug_ranges  0x00005610       0x88 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(readdir.os)
+ .debug_ranges  0x00005698       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x000056b8       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getdents.os)
+ .debug_ranges  0x000056e8       0x80 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(_exit.os)
+ .debug_ranges  0x00005768       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(getpid.os)
+ .debug_ranges  0x00005780       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(xstat64.os)
+ .debug_ranges  0x000057b0       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fxstat64.os)
+ .debug_ranges  0x000057e0       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(lxstat64.os)
+ .debug_ranges  0x00005810       0xa0 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(fcntl.os)
+ .debug_ranges  0x000058b0       0x20 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(profil.os)
+ .debug_ranges  0x000058d0       0xa8 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_ranges  0x00005978       0x30 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x000059a8       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(forward.os)
+ .debug_ranges  0x000059c0       0x50 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(exit.os)
+ .debug_ranges  0x00005a10       0x68 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_ranges  0x00005a78       0x18 /home/dirk/tutorial/glibc/glibc_build/libc_pic.a(raise.os)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/home/dirk/tutorial/glibc/glibc_build/elf/librtld.map.o elf32-littlearm)
